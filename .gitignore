@@ -1,0 +1,5 @@
+/debug
+lt
+*.o
+exe
+*.swp
